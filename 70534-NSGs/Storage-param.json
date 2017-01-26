@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "stdStorageName": {
-      "value": "skaggs70534hwnsgsstd01"
+      "value": "skaggs70534hwnsgsstd02"
     },
     "stdStorageType": {
       "value": "Standard_LRS"
     },
     "prmStorageName": {
-      "value": "skaggs70534hwnsgsprm01"
+      "value": "skaggs70534hwnsgsprm02"
     },
     "prmStorageType": {
       "value": "Premium_LRS" 

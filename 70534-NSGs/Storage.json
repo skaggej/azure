@@ -4,7 +4,7 @@
   "parameters": {
     "stdStorageName": {
       "type": "string",
-      "defaultValue": "skaggs70534hwnsgsstd01",
+      "defaultValue": "skaggs70534hwnsgsstd02",
       "metadata": {
         "description": "Name for simple storage account."
       }
@@ -20,7 +20,7 @@
     },
     "prmStorageName": {
       "type": "string",
-      "defaultValue": "skaggs70534hwnsgsprm01",
+      "defaultValue": "skaggs70534hwnsgsprm02",
       "metadata": {
         "description": "Name for simple storage account."
       }
